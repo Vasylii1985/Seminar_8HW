@@ -1,0 +1,15 @@
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_8HW\Examples\Ex06\bin\Debug\net6.0\Ex06.exe
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_8HW\Examples\Ex06\bin\Debug\net6.0\Ex06.deps.json
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_8HW\Examples\Ex06\bin\Debug\net6.0\Ex06.runtimeconfig.json
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_8HW\Examples\Ex06\bin\Debug\net6.0\Ex06.dll
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_8HW\Examples\Ex06\bin\Debug\net6.0\Ex06.pdb
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_8HW\Examples\Ex06\obj\Debug\net6.0\Ex06.csproj.AssemblyReference.cache
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_8HW\Examples\Ex06\obj\Debug\net6.0\Ex06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_8HW\Examples\Ex06\obj\Debug\net6.0\Ex06.AssemblyInfoInputs.cache
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_8HW\Examples\Ex06\obj\Debug\net6.0\Ex06.AssemblyInfo.cs
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_8HW\Examples\Ex06\obj\Debug\net6.0\Ex06.csproj.CoreCompileInputs.cache
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_8HW\Examples\Ex06\obj\Debug\net6.0\Ex06.dll
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_8HW\Examples\Ex06\obj\Debug\net6.0\refint\Ex06.dll
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_8HW\Examples\Ex06\obj\Debug\net6.0\Ex06.pdb
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_8HW\Examples\Ex06\obj\Debug\net6.0\Ex06.genruntimeconfig.cache
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_8HW\Examples\Ex06\obj\Debug\net6.0\ref\Ex06.dll
